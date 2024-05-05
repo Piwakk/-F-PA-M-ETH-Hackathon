@@ -1,4 +1,4 @@
-# ETH-HACKATHON-2024
+# <F|PA|M> team ETH-HACKATHON-2024
 
 ```
 Abdul Fatah
